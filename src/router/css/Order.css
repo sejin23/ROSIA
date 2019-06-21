@@ -1,0 +1,15 @@
+.order {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.orderby {
+    position: relative;
+    text-decoration: none;
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
